@@ -1,0 +1,18 @@
+{
+    "name": "richhatch/sports-scraper",
+    "type": "application",
+    "description": "A simple espn PHP Web Scraper",
+    "keywords": ["scraper"],
+    "homepage": "https://github.com/richhatch/sports-scraper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rich Hatch",
+            "email": "dick.hatch.bba@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "fabpot/goutte": "^3.1"
+    }
+}
